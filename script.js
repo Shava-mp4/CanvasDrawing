@@ -148,3 +148,8 @@ ctx.fillRect(207, 130, 3, 3);
 ctx.fillRect(194, 67, 3, 3);
 ctx.fillRect(260, 395, 3, 3);
 ctx.fillRect(380, 107, 3, 3);
+
+//Text
+ctx.font = "10px Arial";
+ctx.fillStyle = "rgb(70, 82, 121)";
+ctx.fillText("Jenaya F", 560, 398);
